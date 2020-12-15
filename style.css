@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(10, 26, 35);
+}
+
+
+
+.clock-container{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 4rem;
+    margin: 150px auto;
+    color:white;
+}
+
+span{
+    background-color: rgb(71, 80, 90);
+    padding:15px;
+    border-radius: 10px;
+}
